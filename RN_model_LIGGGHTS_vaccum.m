@@ -5,7 +5,7 @@ tic;
 
 filename = 'poly1_05'; %%%%Change file name when required...
 fileread = sprintf('%s.dat',filename);
-N = dlmread(fileread);
+N = dlmread(fileread); % file format should be x y z radius
 ScF=1;
 
 N(:,1:4) = ScF*N(:,1:4);
