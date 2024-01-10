@@ -11,12 +11,12 @@ If you find the codes beneficial for your work, please consider citing one or mo
 Your citation helps acknowledge and support the ongoing development and improvement of these codes. Thank you for your consideration.
 
 Authors: 
-Akhil Reddy Peeketi
-Website: https://sites.google.com/view/akhilreddypeeketi/
-Email: akhilreddy71196@gmail.com
+Akhil Reddy Peeketi, 
+Website: https://sites.google.com/view/akhilreddypeeketi/, 
+Email: akhilreddy71196@gmail.com, 
 Affiliation: Department of Mechanical Engineering, Indian Institute of Technology Madras, Chennai, INDIA.
 
-Ratna Kumar Annabattula
-Website: https://home.iitm.ac.in/ratna/
-Email: ratna@iitm.ac.in
+Ratna Kumar Annabattula, 
+Website: https://home.iitm.ac.in/ratna/, 
+Email: ratna@iitm.ac.in, 
 Affiliation: Department of Mechanical Engineering, Indian Institute of Technology Madras, Chennai, INDIA.
