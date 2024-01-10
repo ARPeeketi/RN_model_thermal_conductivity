@@ -1,5 +1,5 @@
 # RN_model_thermal_conductivity
-A numerical Resistor Network Model to estimate the effective thermal conductivity of granular beds
+A thermal discrete element method (TDEM) based framework to estimate the effective thermal conductivity of granular beds. The framework is similar to a resistor network approach. The contact conduction and the gap conduction are considered. The influence of reducing gas pressure on the conductivity (Smoluchowski effect) is also considered.
 
 The repository contains the algorithms used in the research articles below:
 1.  Akhil R Peeketi, Marigrazia Moscardini, Akhil Vijayan, Yixiang Gan, Marc Kamlah, Ratna K Annabattula. “Effective thermal conductivity of a compacted pebble bed in a stagnant gaseous environment: An analytical approach together with DEM.” Fusion Engineering and Design 130 (2018) pp.80-88
