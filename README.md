@@ -12,7 +12,7 @@ Your citation helps acknowledge and support the ongoing development and improvem
 
 Authors: 
 Akhil Reddy Peeketi, 
-Website: https://sites.google.com/view/akhilreddypeeketi/, 
+Website: https://www.arpeeketi.com/, 
 Email: akhilreddy71196@gmail.com, 
 Affiliation: Department of Mechanical Engineering, Indian Institute of Technology Madras, Chennai, INDIA.
 
